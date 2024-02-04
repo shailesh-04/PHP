@@ -1,6 +1,7 @@
 
-<!-- Program :3
-    Write a Script Wether the number is Prime or Not-->
+<!-- Program :4
+Write a php script to input number and check whether the number is magic or not
+-->
     <!DOCTYPE html>
 <html lang="en">
 <head>
